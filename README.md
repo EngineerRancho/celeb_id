@@ -1,4 +1,4 @@
-##celeb_id
+#celeb_id
 
 ## git clone https://github.com/EngineerRancho/celeb_id
 
@@ -10,9 +10,9 @@ check in the home folder..
 
 #default Celebrity IDs contained in the Tools include mostly the Foreigners.
 
-###Increase Followers
+#Increase Followers
 
-###Increase Instagram Reach
+#Increase Instagram Reach
 
 #Increase Instagram Interaction
 
