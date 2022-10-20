@@ -1,2 +1,9 @@
 # celeb_id
-the celeb_ids of indian instagram users that contains IDs of top indian instagrammers. top celebrities and to follow that grows the no. of follwers in profile interaction on the Instagram.. Replace the celeb_id  named txt file with this in the inshackle, inshackle-bot and gain real indian follwers and interaction..
+
+Top indian Instagrammers for the Inshackle, inshackle-bot
+helps in increasing Instagram Followers Rapidly and gain reach/profile interaction to the Instagram usdefault ers.
+default Celebrity IDs contained in the Tools include mostly the Foreigners.
+Increase Followers
+Increase Instagram Reach
+Increase Instagram Interaction
+Gain Instagram Folowers
