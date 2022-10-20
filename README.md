@@ -4,11 +4,11 @@
 
 check in the home folder..
 
-# Top indian Instagrammers for the Inshackle, inshackle-bot
+ Top indian Instagrammers for the Inshackle, inshackle-bot
 
-# helps in increasing Instagram Followers Rapidly and gain reach/profile interaction to the Instagram usdefault ers.
+ helps in increasing Instagram Followers Rapidly and gain reach/profile interaction to the Instagram usdefault ers.
 
-# default Celebrity IDs contained in the Tools include mostly the Foreigners.
+ default Celebrity IDs contained in the Tools include mostly the Foreigners.
 
 ## Increase Followers
 
