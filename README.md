@@ -10,10 +10,10 @@ check in the home folder..
 
  default Celebrity IDs contained in the Tools include mostly the Foreigners.
 
-## Increase Followers
+## Increase Instagram Followers
 
 ## Increase Instagram Reach
 
 ## Increase Instagram Interaction
 
-## Gain Instagram Folowers
+## Gain Instagram
